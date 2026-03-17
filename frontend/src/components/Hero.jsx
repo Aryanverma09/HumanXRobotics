@@ -25,7 +25,7 @@ const Hero = () => {
           >
             <h2 className="text-blue-500 font-bold tracking-wider uppercase mb-2">The Future of Flight</h2>
             <h1 className="text-5xl md:text-7xl font-display font-bold text-gray-900 leading-tight mb-6">
-              DROW <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-teal-400">X SERIES</span>
+              DROW <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-teal-400">SERIES</span>
             </h1>
             <p className="text-lg md:text-xl text-gray-600 mb-8 leading-relaxed max-w-lg">
               Experience the ultimate freedom with our most advanced drone yet. 

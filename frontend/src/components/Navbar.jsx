@@ -38,7 +38,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex items-center">
             <a href="#" className="text-2xl font-display font-bold text-secondary">
-              DROW<span className="text-blue-500">X</span>
+              HUMAN<span className="text-blue-500">X</span>ROBOTICS
             </a>
           </div>
 
